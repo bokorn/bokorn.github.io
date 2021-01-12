@@ -1,0 +1,6 @@
+@inproceedings{author20XXtitle,
+  title={ZePHyR: Zero-shot Pose Hypothesis Scoring},
+  author={Okorn, Brian*, and Gu, Qiao and Hebert, Martial and Held, David},
+  booktitle={},
+  year={2021}
+}
