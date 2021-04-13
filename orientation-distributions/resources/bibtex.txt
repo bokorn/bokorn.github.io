@@ -1,0 +1,7 @@
+@inproceedings{okorn2020orientation,
+  title={Learning_Orientation_Distributions_for_Object_Pose_Estimation},
+  author={Okorn, Brian, and Xu, Mengyun and Hebert, Martial and Held, David},
+  booktitle={IROS},
+  year={2020},
+  doi={10.1109/IROS45743.2020.9340860}
+}

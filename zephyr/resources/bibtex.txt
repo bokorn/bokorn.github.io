@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
+@inproceedings{okorn2021zephyr,
   title={ZePHyR: Zero-shot Pose Hypothesis Scoring},
-  author={Okorn, Brian*, and Gu, Qiao and Hebert, Martial and Held, David},
-  booktitle={},
+  author={Okorn, Brian, and Gu, Qiao and Hebert, Martial and Held, David},
+  booktitle={International Conference on Robotics and Automation (ICRA)},
   year={2021}
 }
