@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <title>{{ site.name }}</title>
+
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:60%;vertical-align:middle">
+              <h1>
+                Brian Okorn
+              </h1>
+              <p> I received his PhD at the <a href="https://www.ri.cmu.edu/">CMU Robotics Institute</a> as part of the <a href="https://r-pad.github.io/"> R-PaD Lab</a>. My goal is to develop vision systems that allow robots to interact intelligently with novel objects. Over my PhD, I have developed zero-shot, and self-supervised methods of learning pose estimation, object detection, and scene flow prediction.
+              </p>
+              <p>
+                Prior to joining CMU, I worked as a researcher in the Unmanned Systems Branch of the <a href="https://www.niwcpacific.navy.mil/">Naval Information Warfare Center (NIWC) Pacific</a>, formerly SPAWAR System Center Pacific, developing perception algorithms for surface, underground, and littoral robots and have worked on vision systems for the <a href="https://www.nasa.gov/robonaut2">NASA Robonaut</a> with the Johnson Space Center under the <a href="https://www.nasa.gov/directorates/spacetech/strg/nstrf_2017/Physics_Based_Vision_Systems_for_Robotic_Manipulation/">NSTRF Fellowship</a>.
+              </p>
+              <p style="text-align:center">
+                <a target="_blank" href="https://mailhide.io/e/B8TyS"> Email</a> &nbsp;/&nbsp;
+                <a href="https://github.com/bokorn">GitHub</a> &nbsp;/&nbsp;
+                <a href="https://scholar.google.com/citations?user=GCYG4GoAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+                <a href="https://www.linkedin.com/in/lkeselman"> LinkedIn </a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/circle_bw_crop.jpg">
+            </td>
+          </tr>
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Research</h2>
+              <p>
+                My research centers on object-centric vision for manipulation with a focus on zero-shot and self-supervised methods.
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'research' %}
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
+              {% if post.arxiv %}
+              <a href="{{post.pdf}}">PDF</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">Video</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">Code</a> /
+              {% endif %}
+              {% if post.poster %}
+              <a href="{{post.poster}}">Poster</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">Slides</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:center;font-size:small;">
+                Design and source code from <a style="font-size:small;" href="https://leonidk.com">Leo Keselman's website</a>, originally from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
+
