@@ -2,7 +2,7 @@
 layout: post
 title:  '<a href="https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W04/papers/Okorn_Ego-Motion_Estimation_on_2014_CVPR_paper.pdf">Ego-Motion Estimation on Range Images using High-Order Polynomial Expansion</a>'
 date:   2014-06-01 00:00:00 +00:00
-image: /images/egoflow.jpg
+image: /images/egoflow.png
 categories: research
 author: "Brian Okorn"
 venue: "Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W)"

@@ -72,6 +72,7 @@
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
+              <p style="font-size:small;color:blue">
               {% if post.pdf %}
               [<a href="{{post.pdf}}">PDF</a>]
               {% endif %}
@@ -96,6 +97,7 @@
               {% if post.slides %}
               [<a href="{{post.slides}}">Slides</a>]
               {% endif %}
+              </p>
               <p></p>
               {{ post.excerpt }}
             </td>
