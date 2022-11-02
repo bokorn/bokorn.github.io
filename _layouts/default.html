@@ -40,7 +40,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/okorn_brian_bw_circle_crop.png">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/okorn_brian_toon_circle_crop.png">
             </td>
           </tr>
         </table>
@@ -68,11 +68,9 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
-              <!-- <p style="color:blue"> -->
               {% if post.pdf %}
               [<a href="{{post.pdf}}">PDF</a>]
               {% endif %}
@@ -97,7 +95,6 @@
               {% if post.slides %}
               [<a href="{{post.slides}}">Slides</a>]
               {% endif %}
-              <!-- </p> -->
               <p></p>
               {{ post.excerpt }}
             </td>
