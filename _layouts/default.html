@@ -72,20 +72,20 @@
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
-              <p style="color:blue">
+              <!-- <p style="color:blue"> -->
               {% if post.pdf %}
               [<a href="{{post.pdf}}">PDF</a>]
               {% endif %}
               {% if post.site %}
               [<a href="{{post.site}}">Project Page</a>]
               {% endif %}
-              {% if post.video %}
+              {% if post.video_teaser %}
               [<a href="{{post.video_teaser}}">Teaser Video</a>]
               {% endif %}
               {% if post.video %}
               [<a href="{{post.video}}">Video</a>]
               {% endif %}
-              {% if post.video %}
+              {% if post.video_long %}
               [<a href="{{post.video_long}}">Long Video</a>]
               {% endif %}
               {% if post.code %}
@@ -97,7 +97,7 @@
               {% if post.slides %}
               [<a href="{{post.slides}}">Slides</a>]
               {% endif %}
-              </p>
+              <!-- </p> -->
               <p></p>
               {{ post.excerpt }}
             </td>
