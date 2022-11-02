@@ -20,5 +20,6 @@ pdf: https://arxiv.org/pdf/1912.00497.pdf
 short_id: 2020cvprflow
 site: https://just-go-with-the-flow.github.io/
 venue: Conference on Computer Vision and Pattern Recognition (CVPR)
-video_embed: null
+video_teaser: https://youtu.be/7fTjCwhO140
+video: https://youtu.be/a5HFnDPTNLk
 ---

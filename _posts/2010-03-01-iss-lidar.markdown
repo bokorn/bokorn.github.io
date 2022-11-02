@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Laser Scanners for Modeling and Analysis in Architecture, Engineering, and Construction"
 date:   2010-03-01 00:00:00 +00:00
-image: /images/lidar.jpg
+image: /images/laserscans.png
 categories: research
 author: "Brian Okorn"
 venue: "Conference on Information Sciences and Systems (CISS)"

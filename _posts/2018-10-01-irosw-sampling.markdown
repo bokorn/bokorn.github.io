@@ -8,4 +8,5 @@ author: "Brian Okorn"
 venue: "International Conference on Intelligent Robots and Systems (IROS), Workshop on Machine
 Learning in Robot Motion Planning"
 authors: "Ratnesh Madaan, Sam Zeng, <strong>Brian Okorn</strong>, Sebastian Scherer"
+pdf: https://personalrobotics.cs.washington.edu/workshops/mlmp2018/assets/docs/20_CameraReadySubmission_learn2sample_iros_extended_abstract_compressed.pdf
 ---

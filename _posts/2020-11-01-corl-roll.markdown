@@ -19,5 +19,4 @@ pdf: https://arxiv.org/pdf/2011.06777.pdf
 short_id: 2020roll
 site: https://sites.google.com/andrew.cmu.edu/roll/home
 venue: Conference on Robot Learning (CoRL)
-video_embed: null
 ---

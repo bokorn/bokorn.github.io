@@ -2,7 +2,7 @@
 layout: post
 title:  "OSSID: Online Self-Supervised Instance Detection by (and for) Pose Estimation"
 date:   2022-06-01 00:00:00 +00:00
-image: images/ossid.jpg
+image: /images/ossid.jpg
 categories: research
 author: "Brian Okorn"
 venue: "Robotics and Automation Letters (RA-L) with presentation at the International Conference of

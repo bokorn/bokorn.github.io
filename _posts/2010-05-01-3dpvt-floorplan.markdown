@@ -2,7 +2,7 @@
 layout: post
 title:  "Toward Automated Modeling of Floor Plans"
 date:   2010-05-01 00:00: +00:00
-image: /images/floorplans.jpg
+image: /images/floorplan.png
 categories: research
 author: "Brian Okorn"
 venue: "3D Data Processing, Visualization and Transmission Conference (3DPVT)"

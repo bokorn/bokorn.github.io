@@ -19,5 +19,7 @@ pdf: https://arxiv.org/pdf/2104.13526.pdf
 short_id: 2021zephyr
 site: https://bokorn.github.io/zephyr/
 venue: International Conference of Robotics and Automation (ICRA)
-video_embed: null
+#video: https://www.youtube.com/watch?v=eGcoR7hGQqU
+video: https://studio.youtube.com/video/iYWXU6vXbq8/edit
+video_long: https://www.youtube.com/watch?v=k6ZaSvb9PTw
 ---

@@ -2,9 +2,11 @@
 layout: post
 title:  "IFOR: Iterative Flow Minimization for Robotic Object Rearrangement"
 date:   2022-06-01 00:00:00 +00:00
-image: /images/ossid.jpg
+image: /images/ifor.gif
 categories: research
 author: "Brian Okorn"
 venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
 authors: "Ankit Goyal, Arsalan Mousavian, Chris Paxton, Yu-Wei Chao, <strong>Brian Okorn</strong>, Jia Deng, Dieter Fox"
+pdf: https://arxiv.org/abs/2202.00732
+site: https://imankgoyal.github.io/ifor.html
 ---
