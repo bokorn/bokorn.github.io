@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OSSID: Online Self-Supervised Instance Detection by (and for) Pose Estimation"
-date:   2020
+date:   2020-01-01 00:00:00 +00:00
 image: /images/LearningOrientationDistributions-Website.png
 categories: research
 author: "Brian Okorn"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="https://arxiv.org/abs/2008.05626">Cloth Region Segmentation for Robust Grasp Selection</a>
-date:   2020
+date:   2020-01-01 00:00:00 +00:00
 image: /images/cloth_grasping.gif
 categories: research
 author: "Brian Okorn"

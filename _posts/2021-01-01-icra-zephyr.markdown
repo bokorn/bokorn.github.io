@@ -2,7 +2,7 @@
 layout: post
 title: '<a href="https://arxiv.org/abs/2104.13526">ZePHyR: Zero-shot Pose Hypothesis
 Rating</a>'
-date:   2021
+date:   2021-01-01 00:00:00 +00:00
 image: /images/zephyr2.png
 categories: research
 author: "Brian Okorn"

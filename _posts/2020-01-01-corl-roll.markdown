@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="https://arxiv.org/abs/2011.06777">Visual Self-Supervised Reinforcement Learning with Object Reasoning</a>
-date:   2020
+date:   2020-01-01 00:00:00 +00:00
 image: /images/corl2020_ROLL.jpg
 categories: research
 author: "Brian Okorn"

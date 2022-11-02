@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Counter Tunnel Exploration, Mapping, and Localization with an Unmanned Ground Vehicle"
-date:   2014
+date:   2014-01-01 00:00:00 +00:00
 image: /images/ossid.jpg
 categories: research
 author: "Brian Okorn"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Adaptive Sampling Distributions for Motion Planning by Self-Imitation"
-date:   2018
+date:   2018-01-01 00:00:00 +00:00
 image: /images/sampling.jpg
 categories: research
 author: "Brian Okorn"

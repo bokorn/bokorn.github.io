@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TAX-Pose: Task-Specific Cross-Pose Estimation for Robot Manipulation"
-date:   2022
+date:   2022-01-01 00:00:00 +00:00
 image: /images/hands2015.png
 categories: research
 author: "Brian Okorn"
