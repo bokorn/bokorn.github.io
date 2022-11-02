@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Self-Supervised Point Cloud Completion via Inpainting"
-date:   2021-01-01 00:00:00 +00:00
+date:   2021-11-01 00:00:00 +00:00
 image: /images/bmvc2-2021.gif
 categories: research
 author: "Brian Okorn"

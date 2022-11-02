@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toward Automated Modeling of Floor Plans"
-date:   2010-01-01 00:00:00 +00:00
+date:   2010-05-01 00:00: +00:00
 image: /images/floorplans.jpg
 categories: research
 author: "Brian Okorn"

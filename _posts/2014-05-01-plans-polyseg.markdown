@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Polynomial expansion for range image segmentation and classification of the environment"
-date:   2014-01-01 00:00:00 +00:00
+date:   2014-05-01 00:00:00 +00:00
 image: /images/polyseg.jpg
 categories: research
 author: "Brian Okorn"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smuggling Tunnel Mapping using Slide Image Registration"
-date:   2011-01-01 00:00:00 +00:00
+date:   2011-05-01 00:00:00 +00:00
 image: /images/slideimage.jpg
 categories: research
 author: "Brian Okorn"
