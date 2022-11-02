@@ -2,9 +2,10 @@
 layout: post
 title:  "Deep Projective Rotation Estimation through Relative Supervision"
 date:   2022-11-01 00:00:00 +00:00
-image: /images/hands2015.png
+image: /images/mrp.png
 categories: research
 author: "Brian Okorn"
 venue: "Conference on Robot Learning (CoRL)"
 authors: "<strong>Brian Okorn*</strong>, Chuer Pan*, Martial Hebert, David Held"
+site: https://sites.google.com/view/deep-projective-rotation/home
 ---

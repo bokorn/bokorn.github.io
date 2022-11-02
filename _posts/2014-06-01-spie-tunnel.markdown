@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Counter Tunnel Exploration, Mapping, and Localization with an Unmanned Ground Vehicle"
+title:  '<a href="https://apps.dtic.mil/sti/pdfs/ADA607907.pdf">Counter Tunnel Exploration, Mapping, and Localization with an Unmanned Ground Vehicle</a>'
 date:   2014-06-01 00:00:00 +00:00
 image: /images/tunnel.png
 categories: research

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Laser Scanners for Modeling and Analysis in Architecture, Engineering, and Construction"
+title:  '<a href="https://www.researchgate.net/profile/Pingbo-Tang/publication/224138298_Using_laser_scanners_for_modeling_and_analysis_in_architecture_engineering_and_construction/links/0fcfd50b8dccfc1c40000000/Using-laser-scanners-for-modeling-and-analysis-in-architecture-engineering-and-construction.pdf"> Using Laser Scanners for Modeling and Analysis in Architecture, Engineering, and Construction</a>''
 date:   2010-03-01 00:00:00 +00:00
 image: /images/laserscans.png
 categories: research

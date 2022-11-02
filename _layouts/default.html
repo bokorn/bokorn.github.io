@@ -75,8 +75,17 @@
               {% if post.pdf %}
               [<a href="{{post.pdf}}">PDF</a>]
               {% endif %}
+              {% if post.site %}
+              [<a href="{{post.site}}">Project Page</a>]
+              {% endif %}
+              {% if post.video %}
+              [<a href="{{post.video_teaser}}">Teaser Video</a>]
+              {% endif %}
               {% if post.video %}
               [<a href="{{post.video}}">Video</a>]
+              {% endif %}
+              {% if post.video %}
+              [<a href="{{post.video_long}}">Long Video</a>]
               {% endif %}
               {% if post.code %}
               [<a href="{{post.code}}">Code</a>]

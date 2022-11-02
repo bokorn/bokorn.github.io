@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OSSID: Online Self-Supervised Instance Detection by (and for) Pose Estimation"
+title:  '<a href="https://arxiv.org/abs/2201.07309">OSSID: Online Self-Supervised Instance Detection by (and for) Pose Estimation</a>'
 date:   2022-06-01 00:00:00 +00:00
 image: /images/ossid.jpg
 categories: research
@@ -15,4 +15,5 @@ bib: "@ARTICLE{ral2022ossid,\n  author={Gu, Qiao and Okorn, Brian and Held, Davi
 code: https://github.com/r-pad/OSSID_code
 pdf: https://arxiv.org/pdf/2201.07309.pdf
 video: https://www.youtube.com/watch?v=S_pU2FbMN8k
+video_long: https://www.youtube.com/watch?v=k6ZaSvb9PTw
 ---

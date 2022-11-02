@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smuggling Tunnel Mapping using Slide Image Registration"
+title:  '<a href="https://ir.vanderbilt.edu/bitstream/handle/1803/11597/Slide_Image_Registration_Final.pdf">Smuggling Tunnel Mapping using Slide Image Registration</a>'
 date:   2011-05-01 00:00:00 +00:00
 image: /images/2022-Vanderbilt-University-wordmark.jpg
 categories: research

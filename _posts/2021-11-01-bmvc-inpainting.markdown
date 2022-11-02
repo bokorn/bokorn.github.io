@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Supervised Point Cloud Completion via Inpainting"
+title:  '<a href="https://arxiv.org/abs/2111.10701">Self-Supervised Point Cloud Completion via Inpainting</a>'
 date:   2021-11-01 00:00:00 +00:00
 image: /images/bmvc2-2021-new.gif
 categories: research

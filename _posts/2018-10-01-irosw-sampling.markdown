@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning Adaptive Sampling Distributions for Motion Planning by Self-Imitation"
+title:  '<a href="https://personalrobotics.cs.washington.edu/workshops/mlmp2018/assets/docs/20_CameraReadySubmission_learn2sample_iros_extended_abstract_compressed.pdf">Learning Adaptive Sampling Distributions for Motion Planning by Self-Imitation</a>'
 date:   2018-10-01 00:00:00 +00:00
 image: /images/sampling.jpg
 categories: research
