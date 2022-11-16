@@ -9,4 +9,6 @@ venue: "Conference on Robot Learning (CoRL)"
 authors: "Chuer Pan*, <strong>Brian Okorn*</strong>, Harry Zhang*, Ben Eisner*, David Held"
 video: https://www.youtube.com/embed/1GTEXuk1TEk
 site: https://sites.google.com/view/tax-pose/home
+pdf: /pdfs/TAX-Pose_Task-Specific_Cross-Pose_Estimation.pdf
+appendix: /pdfs/TAX-Pose_Task-Specific_Cross-Pose_Estimation-Appendix.pdf
 ---

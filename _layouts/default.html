@@ -15,7 +15,60 @@
 
 </head>
 
+<!-- <table id="desk-table" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr style="padding:0px">
+    <td style="padding:2.5%;width:60%;vertical-align:middle">
+      <h1>
+        Brian Okorn
+      </h1>
+      <p> I received my PhD at the <a href="https://www.ri.cmu.edu/">CMU Robotics Institute</a> as part of the <a href="https://r-pad.github.io/"> R-PaD Lab</a>. My goal is to develop vision systems that allow robots to interact intelligently with novel objects. In pursuit of this goal, I have developed zero-shot, and self-supervised methods of learning pose estimation, object detection, and scene flow prediction.
+      </p>
+      <p>
+        Prior to joining CMU, I worked as a researcher in the Unmanned Systems Branch of the <a href="https://www.niwcpacific.navy.mil/">Naval Information Warfare Center (NIWC) Pacific</a>, formerly SPAWAR System Center Pacific, developing perception algorithms for surface, underground, and littoral robots and have worked on vision systems for the <a href="https://www.nasa.gov/robonaut2">NASA Robonaut</a> with the Johnson Space Center under the <a href="https://www.nasa.gov/directorates/spacetech/strg/nstrf_2017/Physics_Based_Vision_Systems_for_Robotic_Manipulation/">NSTRF Fellowship</a>.
+      </p>
+      <p style="text-align:center">
+        <a target="_blank" href="mailto:brian.e.okorn@gmail.com"> Email</a> &nbsp;/&nbsp;
+        <a href="https://github.com/bokorn">GitHub</a> &nbsp;/&nbsp;
+        <a href="https://scholar.google.com/citations?user=uV7RuGwAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+        <a href="https://www.linkedin.com/in/brianokornrobotics"> LinkedIn </a> &nbsp;/&nbsp;
+        <a href="pdfs/BrianOkorn-CV.pdf"> CV </a>
+      </p>
+    </td>
+    <td style="padding:2.5%;width:40%;max-width:40%">
+      <img style="width:75%;max-width:100%" alt="profile photo" src="images/okorn_brian_toon_circle_crop.png">
+    </td>
+  </tr>
+</table>
 
+<table id="mobile-table" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr style="padding:0px">
+    <td style="padding:2.5%;width:100%;vertical-align:middle">
+      <h1>
+        Brian Okorn
+      </h1>
+    </td>
+    <td style="padding:2.5%;width:100%;max-width:100%">
+      <img style="width:75%;max-width:100%" alt="profile photo" src="images/okorn_brian_toon_circle_crop.png">
+    </td>
+    <td style="padding:2.5%;width:100%;vertical-align:middle">
+      <p> I received my PhD at the <a href="https://www.ri.cmu.edu/">CMU Robotics Institute</a> as part of the <a href="https://r-pad.github.io/"> R-PaD Lab</a>. My goal is to develop vision systems that allow robots to interact intelligently with novel objects. In pursuit of this goal, I have developed zero-shot, and self-supervised methods of learning pose estimation, object detection, and scene flow prediction.
+      </p>
+      <p>
+        Prior to joining CMU, I worked as a researcher in the Unmanned Systems Branch of the <a href="https://www.niwcpacific.navy.mil/">Naval Information Warfare Center (NIWC) Pacific</a>, formerly SPAWAR System Center Pacific, developing perception algorithms for surface, underground, and littoral robots and have worked on vision systems for the <a href="https://www.nasa.gov/robonaut2">NASA Robonaut</a> with the Johnson Space Center under the <a href="https://www.nasa.gov/directorates/spacetech/strg/nstrf_2017/Physics_Based_Vision_Systems_for_Robotic_Manipulation/">NSTRF Fellowship</a>.
+      </p>
+      <p style="text-align:center">
+        <a target="_blank" href="mailto:brian.e.okorn@gmail.com"> Email</a> &nbsp;/&nbsp;
+        <a href="https://github.com/bokorn">GitHub</a> &nbsp;/&nbsp;
+        <a href="https://scholar.google.com/citations?user=uV7RuGwAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+        <a href="https://www.linkedin.com/in/brianokornrobotics"> LinkedIn </a> &nbsp;/&nbsp;
+        <a href="pdfs/BrianOkorn-CV.pdf"> CV </a>
+      </p>
+    </td>
+    <td style="padding:2.5%;width:40%;max-width:40%" media="(min-width: 800px)">
+      <img style="width:75%;max-width:100%" alt="profile photo" src="images/okorn_brian_toon_circle_crop.png">
+    </td>
+  </tr>
+</table> -->
 
 <body>
   <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -74,6 +127,9 @@
               <br>
               {% if post.pdf %}
               [<a href="{{post.pdf}}">PDF</a>]
+              {% endif %}
+              {% if post.appendix %}
+              [<a href="{{post.appendix}}">Appendix</a>]
               {% endif %}
               {% if post.site %}
               [<a href="{{post.site}}">Project Page</a>]

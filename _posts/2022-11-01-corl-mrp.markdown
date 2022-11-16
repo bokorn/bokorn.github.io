@@ -8,4 +8,6 @@ author: "Brian Okorn"
 venue: "Conference on Robot Learning (CoRL)"
 authors: "<strong>Brian Okorn*</strong>, Chuer Pan*, Martial Hebert, David Held"
 site: https://sites.google.com/view/deep-projective-rotation/home
+pdf: /pdfs/Deep_Projective_Rotation_Estimation_through_Relative_Supervision.pdf
+appendix: /pdfs/Deep_Projective_Rotation_Estimation_through_Relative_Supervision-Appendix.pdf
 ---
