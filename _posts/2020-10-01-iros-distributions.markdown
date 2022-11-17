@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <a href="https://arxiv.org/abs/2007.01418">Learning Orientation Distributions
-for Object Pose Estimation</a>
+title: '<a href="https://arxiv.org/abs/2007.01418">Learning Orientation Distributions
+for Object Pose Estimation</a>'
 date:   2020-10-01 00:00:00 +00:00
 image: /images/LearningOrientationDistributions-Website.png
 categories: research
