@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Projective Rotation Estimation through Relative Supervision"
+title:  '<a href="https://arxiv.org/abs/2211.11182">Deep Projective Rotation Estimation through Relative Supervision</a>'
 date:   2022-11-01 00:00:00 +00:00
 image: /images/mrp.gif
 categories: research
@@ -8,6 +8,6 @@ author: "Brian Okorn"
 venue: "Conference on Robot Learning (CoRL)"
 authors: "<strong>Brian Okorn*</strong>, Chuer Pan*, Martial Hebert, David Held"
 site: https://sites.google.com/view/deep-projective-rotation/home
-pdf: /pdfs/Deep_Projective_Rotation_Estimation_through_Relative_Supervision.pdf
-appendix: /pdfs/Deep_Projective_Rotation_Estimation_through_Relative_Supervision-Appendix.pdf
+pdf: https://arxiv.org/abs/2211.11182
+video: https://youtu.be/wmXa1d1qNVk
 ---
